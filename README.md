@@ -15,5 +15,5 @@ cd rustls && cargo build
 3.  *Install the command*
 
 ```shell
-cargo install .
+cargo install --path .
 ```
